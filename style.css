@@ -1,0 +1,16 @@
+*{
+    background-color: azure;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.dec{
+    display:flex;
+    justify-content:space-between;
+    align-items: flex-start;
+}
+.back{
+    display:flex;
+    justify-content:space-around;
+}
